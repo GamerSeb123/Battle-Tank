@@ -4,4 +4,4 @@ This is a head to head open world tank war game. Click the [Link](https://www.pi
 --- 
 ## Note List 
 * BT Intro 
-
+* BT Game Design Document 
