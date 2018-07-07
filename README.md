@@ -7,7 +7,7 @@ This is a head to head open world tank war game.
 * Concept - 
 This is a tank warfare game. There will be you 'The Player' vs a number of enemies. Survive to win and use the terrain to get a tactical advantage. 
 
-* Rules -  
+* Rules - 
 You win the game by getting the maximum score or by having the most amount of points before the time runs out. You only have a finite amount of health and ammo, so be wise with your shots. 
 
 * Requirements - 
